@@ -1,0 +1,16 @@
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.dl.hardwarekeyboard.ImePreferences"
+    android:supportsSwitchingToNextInputMethod="true">
+    <subtype
+        android:subtypeId="0"
+        android:label="@string/label_subtype_generic"
+        android:icon="@drawable/icon_ru_rus"
+        android:imeSubtypeLocale="ru_RUS"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:subtypeId="1"
+        android:label="@string/label_subtype_generic"
+        android:icon="@drawable/icon_en_us"
+        android:imeSubtypeLocale="en_US"
+        android:imeSubtypeMode="keyboard" />
+</input-method>

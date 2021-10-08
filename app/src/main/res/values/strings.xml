@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Physical keyboard</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="layout_label">Layout</string>
+    <string name="shortcuts_label">Switching layout</string>
+    <string-array name="layouts">
+        <item>RUS</item>
+        <item>ENG</item>
+    </string-array>
+    <string-array name="layouts_shortcuts">
+        <item>CTRL+SHIFT</item>
+        <item>ALT+SHIFT</item>
+        <item>ALT+SPACE</item>
+    </string-array>
+    <string name="preference_file_key" translatable="false">com.dl.hardwarekeyboard.preference</string>
+    <string name="change_layout">Layout changed to</string>
+    <string name="layout_ru">RUS</string>
+    <string name="layout_en">ENG</string>
+</resources>

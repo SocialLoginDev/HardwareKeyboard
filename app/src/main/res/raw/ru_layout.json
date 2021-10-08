@@ -1,0 +1,202 @@
+[
+  {
+    "key_code" : 34,
+    "letter" : "а",
+    "letter_shift" : "А"
+  },
+  {
+    "key_code" : 55,
+    "letter" : "б",
+    "letter_shift" : "Б"
+  },
+  {
+    "key_code" : 32,
+    "letter" : "в",
+    "letter_shift" : "В"
+  },
+  {
+    "key_code" : 49,
+    "letter" : "г",
+    "letter_shift" : "Г"
+  },
+  {
+    "key_code" : 40,
+    "letter" : "д",
+    "letter_shift" : "Д"
+  },
+  {
+    "key_code" : 48,
+    "letter" : "е",
+    "letter_shift" : "Е"
+  },
+  {
+    "key_code" : 68,
+    "letter" : "ё",
+    "letter_shift" : "Ё"
+  },
+  {
+    "key_code" : 74,
+    "letter" : "ж",
+    "letter_shift" : "Ж"
+  },
+  {
+    "key_code" : 44,
+    "letter" : "з",
+    "letter_shift" : "З"
+  },
+  {
+    "key_code" : 30,
+    "letter" : "и",
+    "letter_shift" : "И"
+  },
+  {
+    "key_code" : 45,
+    "letter" : "й",
+    "letter_shift" : "Й"
+  },
+  {
+    "key_code" : 46,
+    "letter" : "к",
+    "letter_shift" : "К"
+  },
+  {
+    "key_code" : 39,
+    "letter" : "л",
+    "letter_shift" : "Л"
+  },
+  {
+    "key_code" : 50,
+    "letter" : "м",
+    "letter_shift" : "М"
+  },
+  {
+    "key_code" : 53,
+    "letter" : "н",
+    "letter_shift" : "Н"
+  },
+  {
+    "key_code" : 38,
+    "letter" : "о",
+    "letter_shift" : "О"
+  },
+  {
+    "key_code" : 35,
+    "letter" : "п",
+    "letter_shift" : "П"
+  },
+  {
+    "key_code" : 36,
+    "letter" : "р",
+    "letter_shift" : "Р"
+  },
+  {
+    "key_code" : 31,
+    "letter" : "с",
+    "letter_shift" : "С"
+  },
+  {
+    "key_code" : 42,
+    "letter" : "т",
+    "letter_shift" : "Т"
+  },
+  {
+    "key_code" : 33,
+    "letter" : "у",
+    "letter_shift" : "У"
+  },
+  {
+    "key_code" : 29,
+    "letter" : "ф",
+    "letter_shift" : "Ф"
+  },
+  {
+    "key_code" : 71,
+    "letter" : "х",
+    "letter_shift" : "Х"
+  },
+  {
+    "key_code" : 51,
+    "letter" : "ц",
+    "letter_shift" : "Ц"
+  },
+  {
+    "key_code" : 52,
+    "letter" : "ч",
+    "letter_shift" : "Ч"
+  },
+  {
+    "key_code" : 37,
+    "letter" : "ш",
+    "letter_shift" : "Ш"
+  },
+  {
+    "key_code" : 43,
+    "letter" : "щ",
+    "letter_shift" : "Щ"
+  },
+  {
+    "key_code" : 72,
+    "letter" : "ъ",
+    "letter_shift" : "Ъ"
+  },
+  {
+    "key_code" : 47,
+    "letter" : "ы",
+    "letter_shift" : "Ы"
+  },
+  {
+    "key_code" : 41,
+    "letter" : "ь",
+    "letter_shift" : "Ь"
+  },
+  {
+    "key_code" : 75,
+    "letter" : "э",
+    "letter_shift" : "Э"
+  },
+  {
+    "key_code" : 56,
+    "letter" : "ю",
+    "letter_shift" : "Ю"
+  },
+  {
+    "key_code" : 54,
+    "letter" : "я",
+    "letter_shift" : "Я"
+  },
+  {
+    "key_code" : 76,
+    "letter" : ".",
+    "letter_shift" : ","
+  },
+  {
+    "key_code" : 9,
+    "letter" : "2",
+    "letter_shift" : "\""
+  },
+  {
+    "key_code" : 10,
+    "letter" : "3",
+    "letter_shift" : "№"
+  },
+  {
+    "key_code" : 11,
+    "letter" : "4",
+    "letter_shift" : ";"
+  },
+  {
+    "key_code" : 13,
+    "letter" : "6",
+    "letter_shift" : ":"
+  },
+  {
+    "key_code" : 14,
+    "letter" : "7",
+    "letter_shift" : "?"
+  },
+  {
+    "key_code" : 73,
+    "letter" : "\\",
+    "letter_shift" : "/"
+  }
+]

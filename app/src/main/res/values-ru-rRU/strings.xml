@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Физическая клавиатура</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="layout_label">Раскладка</string>
+    <string name="shortcuts_label">Переключение раскладки</string>
+    <string name="change_layout">Раскладка изменена на</string>
+    <string name="layout_ru">РУС</string>
+    <string name="layout_en">ENG</string>
+    <string-array name="layouts">
+        <item>РУС</item>
+        <item>ENG</item>
+    </string-array>
+    <string-array name="layouts_shortcuts">
+        <item>CTRL+SHIFT</item>
+        <item>ALT+SHIFT</item>
+        <item>ALT+ПРОБЕЛ</item>
+    </string-array>
+</resources>
