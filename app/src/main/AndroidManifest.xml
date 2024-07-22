@@ -23,7 +23,8 @@
                 android:resource="@xml/method" />
         </service>
 
-        <activity android:name=".ImePreferences">
+        <activity android:name=".ImePreferences"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
             </intent-filter>
